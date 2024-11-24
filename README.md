@@ -20,8 +20,6 @@ Este projeto explora o uso de **IAs Generativas** para criar conteúdos digitais
 - **E-book Criado**: Um e-book digital com 4 capítulos, cada um acompanhado de imagens geradas pela IA, que ilustram os tópicos discutidos. O conteúdo abrange desde a revolução das IAs até os desafios éticos que elas apresentam.
 - **Imagens Criadas**: Imagens que acompanham os capítulos do e-book, como representações de um futuro digital com IA e as implicações éticas dessa tecnologia.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Criar um conteúdo realista com IA foi um processo fascinante. Uma das maiores dificuldades foi ajustar o conteúdo para torná-lo mais humano e acessível. As ferramentas como **GPT-4** e **DALL-E 2** fornecem uma excelente base, mas é necessário um toque final para garantir que o produto final seja genuíno e impactante.
 
-## 📢 Compartilhe e Contribua
-Compartilhe seu trabalho usando a hashtag **#LabDIONattyOrNot** nas redes sociais e mostre o que você conseguiu criar com o poder das IAs generativas! Fique à vontade para contribuir com melhorias ou enviar pull requests para o repositório.
