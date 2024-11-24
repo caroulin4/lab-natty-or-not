@@ -24,5 +24,6 @@ Este projeto explora o uso de **IAs Generativas** para criar conteúdos digitais
 Criar um conteúdo realista com IA foi um processo fascinante. Uma das maiores dificuldades foi ajustar o conteúdo para torná-lo mais humano e acessível. As ferramentas como **GPT-4** e **DALL-E 2** fornecem uma excelente base, mas é necessário um toque final para garantir que o produto final seja genuíno e impactante.
 
 ## 📖 Baixar o E-book
-Você pode baixar o e-book "Explorando as Fronteiras da Inteligência Artificial" [aqui](Projeto IA Generativa.pdf).
+Você pode baixar o e-book "Explorando as Fronteiras da Inteligência Artificial" [https://github.com/caroulin4/lab-natty-or-not/blob/5d2399cef81d44ceb0d05b9e5987d77c0c6862f2/Projeto%20IA%20Generativa.pdf](./ebook.pdf).
+
 
